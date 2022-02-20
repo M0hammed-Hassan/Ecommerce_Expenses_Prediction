@@ -12,4 +12,10 @@ Used libraries:
 # Training and Testing Score
 <img src="Images/Scores.png" alt="Training and Testing Score">
 
+# RMSE
+<img src="Images/RMSE.png" alt="RMSE">
+
+# Deployment
+<img src="Images/Deployment.png" alt="Deployment">
+
 

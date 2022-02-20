@@ -10,6 +10,6 @@ Used libraries:
 - Warnings
 
 # Training and Testing Score
-<img src="images/Scores.png" alt="Training and Testing Score">
+<img src="Images/Scores.png" alt="Training and Testing Score">
 
 

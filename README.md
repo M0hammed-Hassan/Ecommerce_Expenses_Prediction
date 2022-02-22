@@ -3,7 +3,7 @@ This project helps us predict yearly amount spent by using linear regression mod
 
 Used libraries:
 
--Numpy
+- Numpy
 - Pandas
 - Seaborn
 - Matplotlib
